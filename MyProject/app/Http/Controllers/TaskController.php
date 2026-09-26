@@ -22,8 +22,8 @@ class TaskController extends Controller
     {
         $request->validate([
     'task_name' => 'required|string|max:255',
-    'description' => 'nullable|string',
-    'due_date' => 'nullable|date',
+    'description' => 'required|string',
+    'due_date' => 'required|date',
 ]);
 
 Task::create($request->all());
@@ -39,7 +39,10 @@ Task::create($request->all());
     public function update(Request $request, Task $task)
     {
         $request->validate([
-            'task_name' => 'required|string|max:255',
+    'task_name' => 'required|string|max:255',
+    'description' => 'required|string',
+    'due_date' => 'required|date',
+
         ]);
 
         $task->update($request->all());
