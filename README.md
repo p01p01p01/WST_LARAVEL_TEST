@@ -1,7 +1,11 @@
 Project Code: WST21-PM-2026-SF
+
 Student Name: ESTRELLA, ZHAC ANDRIE
+
 Course & Year: BSIT-2 
+
 Database Used:sqlite
+
 Features:
 - Add Task
 - View Tasks
