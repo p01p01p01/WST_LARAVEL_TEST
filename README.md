@@ -1,4 +1,6 @@
-#Project Code: WST21-PM-2026-SF
+#PERSONAL TASK MANAGER#
+
+Project Code: WST21-PM-2026-SF
 
 Student Name: ESTRELLA, ZHAC ANDRIE
 
