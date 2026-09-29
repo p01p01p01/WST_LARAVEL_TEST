@@ -52,15 +52,36 @@ sqlite
 
 ### Newly created task is shown on the table.
 
----
+----
 
 <img width="1918" height="1028" alt="image" src="https://github.com/user-attachments/assets/24ea9de9-6276-46fb-be02-5263b0cfb3ac" />
 
 ### Clicking on Toggle Button turns the Status of the task from Pending to Completed, and vice versa.
 
+----
 
+<img width="1901" height="992" alt="image" src="https://github.com/user-attachments/assets/abfc6d6a-7f46-474d-b5a9-de2034504f59" />
 
+### Upon clicking "Delete", the system asks the user to confirm the action. Clicking OK deletes the task, while clicking Cancel closes the dialog and keeps the task unchanged.
 
+----
 
+<img width="1910" height="991" alt="image" src="https://github.com/user-attachments/assets/2f2c95c4-5fa0-4136-b797-fde3838120b9" />
+
+### After clicking OK, the Task is deleted.
+
+----
+
+<img width="1916" height="993" alt="image" src="https://github.com/user-attachments/assets/ff33f4f8-a43a-4407-b645-70eb06600f8b" />
+
+### Clicking the Edit button will show the Edit Task page.
+
+<img width="1910" height="992" alt="image" src="https://github.com/user-attachments/assets/e458d3af-2f05-4170-9922-25332f779a39" />
+
+### Edit Task Page
+
+<img width="1918" height="996" alt="image" src="https://github.com/user-attachments/assets/60286611-c004-4ae5-8a56-01156da8de99" />
+
+### Tells the user that the task has successfully been edited/updated.
 
 
