@@ -1,14 +1,18 @@
-#PERSONAL TASK MANAGER#
+# PERSONAL TASK MANAGER 
 
-Project Code: WST21-PM-2026-SF
+## Project Code: 
+WST21-PM-2026-SF
 
-Student Name: ESTRELLA, ZHAC ANDRIE
+## Student Name: 
+ESTRELLA, ZHAC ANDRIE
 
-Course & Year: BSIT-2 
+## Course & Year:
+BSIT-2 
 
-Database Used:sqlite
+## Database Used:
+sqlite
 
-Features:
+## Features:
 - Add Task
 - View Tasks
 - Edit Task
