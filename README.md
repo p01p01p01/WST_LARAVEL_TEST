@@ -44,6 +44,22 @@ sqlite
 <img width="1916" height="1031" alt="image" src="https://github.com/user-attachments/assets/3a3d95d2-a84c-4d62-917e-cb0a6dc3732a" />
 <img width="1910" height="1035" alt="image" src="https://github.com/user-attachments/assets/785e8729-1bbb-4c90-a2ae-b66ef9d525e3" />
 
+### All the fields must be filled in order to create a New Task
+
+---- 
+
+<img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/89906d8d-d3e9-48ca-bcff-f530b69d297a" />
+
+### Newly created task is shown on the table.
+
+---
+
+<img width="1918" height="1028" alt="image" src="https://github.com/user-attachments/assets/24ea9de9-6276-46fb-be02-5263b0cfb3ac" />
+
+### Clicking on Toggle Button turns the Status of the task from Pending to Completed, and vice versa.
+
+
+
 
 
 
